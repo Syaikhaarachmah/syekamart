@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\bin\Debug\Database1.accdb
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\bin\Debug\SyekaMart.exe.config
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\bin\Debug\SyekaMart.exe
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\bin\Debug\SyekaMart.pdb
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\obj\Debug\SyekaMart.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\obj\Debug\SyekaMart.Form1.resources
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\obj\Debug\SyekaMart.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\obj\Debug\SyekaMart.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\obj\Debug\SyekaMart.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\obj\Debug\SyekaMart.exe
+C:\Users\LENOVO\source\repos\SyekaMart\SyekaMart\obj\Debug\SyekaMart.pdb
